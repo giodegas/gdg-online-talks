@@ -1,5 +1,5 @@
 # My Online Talks
-Here I save my online talks about programming and other things
+Here I save files edited during my online talks about programming and other things
 
 ## Talks
 
