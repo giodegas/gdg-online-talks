@@ -1,5 +1,7 @@
 # PyLadies event 20 February 2016
 
+Notes
+
 ## Links:
 
 where I am from:
